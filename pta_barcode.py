@@ -3,7 +3,7 @@ import treepoem
 #image.convert("1").save("one.png")
 # *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 res = ""
-counter = 1
+counter = 6454
 # 000 001
 while counter <= 999999:
      if counter < 10:
